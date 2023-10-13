@@ -1,0 +1,2 @@
+# Melody_Generation_With_LSTM
+This project is an example of using a Long Short-Term Memory (LSTM) neural network to generate melodies in Python. With this code, you can train a model to create unique melodies based on an input dataset of existing melodies.
